@@ -10,4 +10,9 @@ public class LearnMavenApplication {
 		SpringApplication.run(LearnMavenApplication.class, args);
 	}
 
+	public void Maven(){
+
+	}
 }
+
+
